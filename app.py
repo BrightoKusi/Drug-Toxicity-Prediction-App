@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # App title and description
-st.title("🧪 Toxicity Prediction App")
+st.title("🧪 Drug Toxicity Prediction App")
 st.markdown("""
 Oxidative stress is a key mechanism behind many types of drug-induced toxicity, especially liver toxicity (hepatotoxicity). 
 Predicting this activity early in drug discovery can save millions of dollars and prevent failures in later clinical stages.
