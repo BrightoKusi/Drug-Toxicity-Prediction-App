@@ -1,0 +1,9 @@
+venv/
+.tox/
+data/
+.git/
+.gitignore
+README.md
+*.pyc
+*.pyo
+.python-version
