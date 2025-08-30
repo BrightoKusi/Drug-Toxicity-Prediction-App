@@ -1,4 +1,3 @@
-# get_positive_example.py
 import pandas as pd
 
 # Load the raw training data

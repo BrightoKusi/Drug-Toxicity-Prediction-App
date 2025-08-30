@@ -10,7 +10,7 @@ pinned: false
 
 # 🧪 Toxicity Prediction App
 
-This app predicts the likelihood of a compound being toxic based on the **SR-ARE assay** from the NIH Tox21 dataset. It uses an XGBoost machine learning model trained on molecular fingerprints ([Morgan Fingerprints](https://rdkit.org/docs/GettingStartedInPython.html#morgan-fingerprints-circular-fingerprints)).
+This app predicts the likelihood of a compound being toxic based on the **SR-ARE (Stress Response - Antioxidant Response Element) assay** from the NIH Tox21 dataset. It uses an XGBoost machine learning model trained on molecular fingerprints ([Morgan Fingerprints](https://rdkit.org/docs/GettingStartedInPython.html#morgan-fingerprints-circular-fingerprints)).
 
 ## How to Use
 
@@ -37,7 +37,7 @@ This model is trained specifically to predict activity in the **SR-ARE** assay, 
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/BrightoKusi/Drug-Toxicity-Prediction-App.git
 cd tox21_project
 
 # Build the Docker image

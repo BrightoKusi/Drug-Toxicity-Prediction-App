@@ -148,6 +148,14 @@ elif smiles_input:
 # Add footer with project information
 st.markdown("---")
 st.markdown("""
+**Compound Examples (SMILES)**
+1. C/C=C/C=C/C=O
+2. CC(O)(P(=O)(O)O)P(=O)(O)O
+3. C=CC(=O)OCCOC(=O)C=C
+""")
+
+st.markdown("---")
+st.markdown("""
 **Project Details:**
 - **Model:** XGBoost Classifier
 - **Training Data:** Tox21 SR-ARE assay
