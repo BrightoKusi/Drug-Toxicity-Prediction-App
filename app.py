@@ -162,3 +162,10 @@ st.markdown("""
 - **Features:** 2048-bit Morgan Fingerprints
 - **Performance:** AUC-PR = 0.34, Recall = 47%
 """)
+
+st.markdown("---")
+st.markdown("""
+**Contact:**
+- **Developer:** Bright Kusi
+- **Email:** brightokusi@gmail.com
+""")
